@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/charts": "^2.2.7",
     "antd": "^5.25.1",
     "next": "15.3.2",
     "react": "^19.0.0",
